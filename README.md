@@ -1,10 +1,10 @@
 # Pcryt
-Pcryt is a Python-based encryption program.
+Pcryt একটি পাইথন-ভিত্তিক এনক্রিপশন প্রোগ্রাম।
 
 ![Pcryt logo](https://github.com/dmimukto/pcryt/blob/main/pcrytlogo.png)
 
-### About Pcryt
-At the moment, Pcryt is highly simplified and minimalistic.
+### Pcryt সম্পর্কে
+এই মুহুর্তে, Pcryt অত্যন্ত সরলীকৃত এবং সংক্ষিপ্ত।
 
 ### Running Pcryt
 ###### For v0.1.2
